@@ -11,5 +11,6 @@ pkgs.mkShell {
     nodePackages."@astrojs/language-server"
     emmet-ls
     eslint_d
+    nodePackages.prettier
   ];
 }
