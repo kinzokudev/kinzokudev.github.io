@@ -1,48 +1,21 @@
-# Astro Starter Kit: Basics
+<div align="center">
 
-```sh
-bun create astro@latest -- --template basics
-```
+<img src="https://github.com/kinzokudev/home-ops/raw/main/assets/kinzoku_pfp_round.png" align="center" width="144px" height="144px"/>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+### My Website <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.png" alt="🌐" width="16" height="16">
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+_... made in AstroJS and deployed with GitHub Pages_ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.png" alt="🚀" width="16" height="16">
 
-## 🚀 Project Structure
+</div>
 
-Inside of your Astro project, you'll see the following folders and files:
+---
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.png" alt="💡" width="20" height="20"> Overview
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+This is my own personal website written in TypeScript using AstroJS. I plan to use it as a blog, a portfolio, and a general space to share my interests and passions!
 
-## 🧞 Commands
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f527/512.png" alt="🔧" width="20" height="20"> Tools Used
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `bun install`             | Installs dependencies                            |
-| `bun dev`             | Starts local dev server at `localhost:4321`      |
-| `bun build`           | Build your production site to `./dist/`          |
-| `bun preview`         | Preview your build locally, before deploying     |
-| `bun astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `bun astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- [AstroJS](https://astro.build/): Minimal JS framework ideal for small apps
+- [Bun](https://bun.sh/): Super fast JS all-in-one runtime & toolkit
